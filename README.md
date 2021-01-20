@@ -1,6 +1,6 @@
 # prsb_landscape
 
-Data accompanying publication: 10.1098/rspb.2020.2734\
+Code and data accompanying publication: 10.1098/rspb.2020.2734\
 Proceedings of Royal Society B: Biological Sciences
 
 **Locomotor transitions in the potential energy landscape dominated regime**\
